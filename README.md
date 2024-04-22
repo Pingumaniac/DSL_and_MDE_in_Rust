@@ -1,5 +1,7 @@
 # DSL_and_MDE_in_Rust
-Based on "Domain-Specific Languages: Effective Modeling, Automation, and Reuse" by Andrzej Wąsowski and Thorsten Berger
+Based on "Domain-Specific Languages: Effective Modeling, Automation, and Reuse" by Andrzej Wąsowski and Thorsten Berger.
+
+Solved programming exercises in Rust instead of the other languages used in this book such as Scala, Java and Python.
 
 ## Who am I?
 #### Young-jae Moon
