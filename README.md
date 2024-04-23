@@ -20,10 +20,9 @@ Solved programming exercises in Rust instead of the other languages used in this
 * Chapter 9: Code Generation
 * Chapter 10: Internal Domain-Specific Languages
 * Chapter 11: Software Product Lines
-* Chapter 12: Feature Modleing
+* Chapter 12: Feature Modeling
 * Chapter 13: Model and Language Variability
 
-## About each file
+## About each folder
 
 * Solutions for the exerises in each chapter are stored in corresponding folders.
-* "dsldesign" contains the sample codes and files provided by the book.
