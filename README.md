@@ -22,3 +22,8 @@ Solved programming exercises in Rust instead of the other languages used in this
 * Chapter 11: Software Product Lines
 * Chapter 12: Feature Modleing
 * Chapter 13: Model and Language Variability
+
+## About each file
+
+* Solutions for the exerises in each chapter are stored in corresponding folders.
+* "dsldesign" contains the sample codes and files provided by the book.
