@@ -23,6 +23,7 @@ Solved programming exercises in Rust instead of the other languages used in this
 * Chapter 12: Feature Modeling
 * Chapter 13: Model and Language Variability
 
-## About each folder
+## Notes
 
 * Solutions for the exerises in each chapter are stored in corresponding folders.
+* For Chapter 3, only exercises 3.1 to 3.12 has been solved and exercises 3.13 to 3.34 has been skipped. These exercises were not needed for me study in-depth about Domain Specific Languages and Model Driven Engineering.
