@@ -1,7 +1,7 @@
 # DSL_and_MDE_in_Rust
 Based on "Domain-Specific Languages: Effective Modeling, Automation, and Reuse" by Andrzej Wąsowski and Thorsten Berger.
 
-Solved programming exercises in Rust instead of the other languages used in this book such as Scala, Java and Python.
+I solved programming exercises in Rust instead of the other languages used in this book, such as Scala, Java and Python.
 
 ## Who am I?
 #### Young-jae Moon
@@ -9,7 +9,7 @@ Solved programming exercises in Rust instead of the other languages used in this
 * Email: youngjae.moon@Vanderbilt.Edu
 
 ## About each chapter
-* Chapter 1: Using Modeling Lnaguages
+* Chapter 1: Using Modeling Languages
 * Chapter 2: Building Modeling Languages
 * Chapter 3: Domain Analysis and Abstract Syntax
 * Chapter 4: Concrete Syntax
@@ -25,5 +25,5 @@ Solved programming exercises in Rust instead of the other languages used in this
 
 ## Notes
 
-* Solutions for the exerises in each chapter are stored in corresponding folders.
-* For Chapter 3, only exercises 3.1 to 3.12 has been solved and exercises 3.13 to 3.34 has been skipped. These exercises were not needed for me study in-depth about Domain Specific Languages and Model Driven Engineering.
+* Solutions for the exercises in each chapter are stored in corresponding folders.
+* For Chapter 3, only exercises 3.1 to 3.12 have been solved, and exercises 3.13 to 3.34 have been skipped. These exercises were unnecessary for me to study Domain-Specific Languages and Model-Driven Engineering in depth.
