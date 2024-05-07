@@ -26,4 +26,7 @@ I solved programming exercises in Rust instead of the other languages used in th
 ## Notes
 
 * Solutions for the exercises in each chapter are stored in corresponding folders.
-* For Chapter 3, only exercises 3.1 to 3.12 have been solved, and exercises 3.13 to 3.34 have been skipped. These exercises were unnecessary for me to study Domain-Specific Languages and Model-Driven Engineering in depth.
+* For Chapter 3, only exercises 3.1 to 3.12 have been solved, and exercises 3.13 to 3.34 have been skipped.
+* For Chapter 4, exercises 4.48 to 4.50 and exercise 4.57 have been skipped.
+* For Chapter 5, exercise 5.8 has been skipped.
+* These exercises were unnecessary for me to study Domain-Specific Languages and Model-Driven Engineering in depth.
