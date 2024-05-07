@@ -25,7 +25,8 @@ I solved programming exercises in Rust instead of the other languages used in th
 
 ## Notes
 
-* Solutions for the exercises in each chapter are stored in corresponding folders.
+* Written solutions are stored in the doc folder, while Code solutions are stored in the code folder.
+* Solutions for the exercises in each chapter are stored in corresponding sub-folders.
 * For Chapter 3, only exercises 3.1 to 3.12 have been solved, and exercises 3.13 to 3.34 have been skipped.
 * For Chapter 4, exercises 4.48 to 4.50 and exercise 4.57 have been skipped.
 * For Chapter 5, exercise 5.8 to 5.15, 5.17 to 5.52 have been skipped.
