@@ -33,4 +33,5 @@ I solved programming exercises in Rust instead of the other languages used in th
 * For Chapter 6, exercises 6.3, and 6.6 to 6.22 have been skipped.
 * For Chapter 7, exercises 7.1 to 7.16 have been skipped.
 * For Chapter 8, exercises 8.1 to 8.3, and 8.5 to 8.20 have been skipped.
+* For Chapter 9-13, all exercises have been skipped.
 * These exercises were unnecessary or too excessive for me to study Domain-Specific Languages and Model-Driven Engineering in depth.
